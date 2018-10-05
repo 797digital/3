@@ -36,7 +36,9 @@
     "siteFonts": [],
     "uniqCompNum": 20,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/xx-128x124.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -537,7 +539,7 @@
     "NEWS.html": {
       "settings": {
         "meta_descr": "#BREAKING NEWS",
-        "title": "NEWS",
+        "title": "797",
         "order": 2
       },
       "components": [
